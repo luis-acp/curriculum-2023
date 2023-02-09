@@ -6,3 +6,7 @@ Benito Juarez
 
 ## Primaria
 Margarita Maza de Juarez
+
+
+## Secundaria
+Escuela Secundaria Tecnica #38
