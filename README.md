@@ -13,3 +13,6 @@ Escuela Secundaria Tecnica #38
 
 ## Bachillerato
 CBTA #260
+
+## Licenciatura
+UADEO Guasave
