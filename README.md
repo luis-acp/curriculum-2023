@@ -10,3 +10,6 @@ Margarita Maza de Juarez
 
 ## Secundaria
 Escuela Secundaria Tecnica #38
+
+## Bachillerato
+CBTA #260
