@@ -16,3 +16,6 @@ CBTA #260
 
 ## Licenciatura
 UADEO Guasave
+
+## Maestría
+UADEO Guasave
